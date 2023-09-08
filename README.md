@@ -1,2 +1,2 @@
 # Airbnb-dataset-EDA
-Analyze Airbnb 2019 NY dataset
+I nthis repository, we will analyze the NY  Airbnb 2019 dataset 
